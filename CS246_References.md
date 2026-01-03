@@ -12,9 +12,9 @@
 
 [*The New Software Engineering*](https://archive.org/details/CongerNewSoftwareEngineering)—OER textbook by Sue Conger, 2008, Global Text Project.      
 
-[*Business Information Systems: Design an App for That*](https://www.oercommons.org/courses/business-information-systems-design-an-app-for-that/view)—OER testbook.  
+[*Business Information Systems: Design an App for That*](https://www.oercommons.org/courses/business-information-systems-design-an-app-for-that/view)—OER textbook.  
 
-**LinkedIn Learning** provides many high quiality ASP.NET MVC and other software development tutorials      and courses. You can access LinkedIn Learning free of cost via the [LCC Library home page](https://library.lanecc.edu/). Click on the LinkedIn Learning icon near the bottom of the page for free LCC student access.        
+**LinkedIn Learning** provides many high quality ASP.NET MVC and other software development tutorials      and courses. You can access LinkedIn Learning free of cost via the [LCC Library home page](https://library.lanecc.edu/). Click on the LinkedIn Learning icon near the bottom of the page for free LCC student access.        
 
 
 
@@ -46,7 +46,7 @@
 
 ### Course Materials on GitHub 
 
-[CS 246 Course Materials Repository](https://github.com/ProfBird/CS246-CourseMaterials)—Instructor's Systrem Design course materials.
+[CS 246 Course Materials Repository](https://github.com/ProfBird/CS246-CourseMaterials)—Instructor's System Design course materials.
 
 [CS 295N Course Materials](https://github.com/LCC-CIT/CS295N-CourseMaterials)—Instructor's Web Dev 1: ASP.NET course materials.
 
@@ -63,8 +63,8 @@
 
 
 
-------
+---
 
- Compiled by Brian Bird, 2019,  revised 2025.
+Compiled by Brian Bird, 2019, revised 2026.
 
-------
+---
