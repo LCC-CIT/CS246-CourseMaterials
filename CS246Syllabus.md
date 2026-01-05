@@ -138,7 +138,7 @@ Please be aware that any accessible tables and chairs in this room should remain
 | Event                                               | Date          |
 | --------------------------------------------------- | ------------- |
 | Winter term classes begin                           | 1/5, Monday   |
-| Last day to drop and receive a refund               | 1/11, Sunday  |
+| Last day to drop and receive a refund               | 1/12, Monday  |
 | Martin Luther King Jr. holiday&mdash;college closed | 1/19, Monday  |
 | Presidents' Day holiday&mdash;college closed        | 2/16, Monday  |
 | Last day for schedule changes                       | 2/27, Friday  |
