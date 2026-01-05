@@ -32,7 +32,8 @@ The document you submit should be at least two pages in length, but not more tha
 
 This requirements document will focus on just those problems that you have decided to solve with the system you will design. It might not address every issue that came up in the first interview.
 
-The functional requirements should just describe what the system needs to do, not how it will do it. They should be written so that a non-technical stakeholder can understand them. For example a functional requirement might be:
+The functional requirements should just describe what the system needs to do, not how it will do it. They should be written so that a non-technical stakeholder can understand them. 
+For example a functional requirement **might be**:
 
 *The system will provide a way for volunteers to create a profile that includes contact information, skills, and perferred types of projects.*
 
@@ -52,7 +53,9 @@ Submit the following to Moodle. You will make one submission for the whole team.
 
 - **Additional Interview**
 - **Requirements Document**
-- **Team contribution report**: a document describing who did which parts of the project. 
+- **Team contribution report**:  
+
+  a document describing who did which parts of the project. 
 
 Documents must be in docx or pdf format. Do not zip the document. Do not upload just a link to the document. Only one team member needs to make a submission on behalf of the team.
 
