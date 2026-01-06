@@ -5,7 +5,7 @@
 |     | Class |      |    | Instructor |
 | -------- | ------------------------ | ---- | ------------ | ---------------------- |
 | **Course Number** | CS 246 |      | Name         | Brian Bird             |
-| **CRN** | 31893 Hybrid (on campus)  <br />32357 Online |      | Email<br />Mobile | [birdb@lanecc.edu](mailto:birdb@lanecc.edu)<br />[‪(541) 525-0213‬](tel:5415250213) |
+| **CRN** | 31893 Hybrid (on campus)  <br />32357 Online |      | Email<br />Text/Voice | [birdb@lanecc.edu](mailto:birdb@lanecc.edu)<br />[‪(541) 525-0213‬](tel:5415250213) |
 | **Time** | M, W; 2:00&ndash;3:50 |      | Office Hours | M, W 4:00–4:50<br />Tu, Th 2:00–2:50 |
 | **Room** | Building 19, Room 126<br /> or [Zoom meeting](https://lanecc.zoom.us/j/91892228775) |      | Office | Building 19, Room 152<br /> or [Zoom meeting](https://lanecc.zoom.us/j/8982554800) |
 
@@ -45,11 +45,11 @@ The class examples are based on using the Windows operating system for developme
 
 #### IDE and .NET Framework
 
-We will be using [Visual Studio 2022, Community Edition](https://visualstudio.microsoft.com/vs/community/), which is available as a free download. This is the most popular IDE for .NET development on Windows.
+We will be using [Visual Studio 2026, Community Edition](https://visualstudio.microsoft.com/vs/community/), which is available as a free download. This is the most popular IDE for .NET development on Windows.
 
 For Mac OS and Linux, the best IDE is [JetBrains Rider](https://www.jetbrains.com/rider/), which also runs on Windows and is available free to students.
 
-The version of the .NET framework we will be using is [.NET Core 6.0](https://dotnet.microsoft.com/download/dotnet-core/6.0). You will need to download the latest release of this version of the .NET framework SDK for your OS (Windows, Mac, or Linux).
+The version of the .NET framework we will be using is [.NET Core 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0). You will need to download the latest release of this version of the .NET framework SDK for your OS (Windows, Mac, or Linux).
 
 #### Git
 
@@ -100,8 +100,6 @@ While students are encouraged to discuss assignments and help each other, each s
 #### Use of AI
 
 Generative AI tools such as Gemini, Claude or ChatGPT are useful resources and you are encouraged to use them to help you learn concepts and techniques, but not to produce text, code or other content for your assignments unless a specific assignment has instructions that direct you to use AI.
-
-Any time AI is used as part of the coding process, you need to provide a comment or other documentation explaining what AI tools were used and how they were used.
 
 ### Attendance
 
