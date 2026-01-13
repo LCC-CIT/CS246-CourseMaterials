@@ -1,4 +1,4 @@
-# Problem Solving
+<h1>Problem Solving</h1>
 
 **CS 246 System Design**
 
@@ -125,14 +125,10 @@ The requirements document should include these elements:
 
 
 
-## Lab Assignment
-
-You will look at a web site for a business or organization and try to infer some things about their mission from the web site. Then you will write a proposal for software that will help them better meet their needs.
-
 ------
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-System Design Lecture Notes by [Brian Bird](https://profbird.dev), 2021, revised <time>2024</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+System Design Lecture Notes by [Brian Bird](https://profbird.dev), 2021, revised <time>2026</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ------
 

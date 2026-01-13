@@ -1,16 +1,10 @@
 <!doctype html>
 <html style='font-size:20px !important'>
 <head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<meta name="title" content="${title}">
-<meta name="description" content="${description}">
-<meta name="keywords" content="${keywords}">
-<meta name="material" content="${material}">
-<meta name="author" content="${author}">
-<meta name="generator" content="${generator}">
-<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'><style type='text/css'>html {overflow-x: initial !important;}</style>
+<style type='text/css'  id="style-base">:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
-html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", "SF Pro", sans-serif; -webkit-font-smoothing: antialiased; }
 h1, h2, h3, h4, h5 { white-space: pre-wrap; }
 body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; background-position: inherit; background-repeat: inherit; }
 iframe { margin: auto; }
@@ -19,7 +13,7 @@ a:active, a:hover { outline: 0px; }
 .in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
 #write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
 #write.first-line-indent p { text-indent: 2em; }
-#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li p, #write.first-line-indent p *, #write.first-line-indent svg * { text-indent: 0px; }
 #write.first-line-indent li { margin-left: 2em; }
 .for-image #write { padding-left: 8px; padding-right: 8px; }
 body.typora-export { padding-left: 30px; padding-right: 30px; }
@@ -35,11 +29,16 @@ img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
 button, input, select, textarea { color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; }
 input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
 *, ::after, ::before { box-sizing: border-box; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
-#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; position: relative; }
+#write svg h1, #write svg h2, #write svg h3, #write svg h4, #write svg h5, #write svg h6, #write svg p { position: static; }
+svg sub, svg sup { position: static; }
+.nodeLabel p { padding-right: 2px; padding-left: 2px; }
+.typora-export .nodeLabel p { padding-right: 0px; padding-left: 0px; }
+foreignObject { overflow: visible; }
 p { line-height: inherit; }
 h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
 p { orphans: 4; }
+li p { orphans: 1; }
 h1 { font-size: 2rem; }
 h2 { font-size: 1.8rem; }
 h3 { font-size: 1.6rem; }
@@ -166,6 +165,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .md-fences.md-fences-math { font-size: 1em; }
 .md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
 .md-fences-advanced:not(.md-focus) { background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; background-position: inherit; background-repeat: inherit; }
+.mermaid-svg { margin: auto; }
 .typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
 .typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
 .typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
@@ -208,9 +208,24 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
 .md-inline-math-container mjx-container { zoom: 0.95; }
 mjx-container { break-inside: avoid; }
+.md-alert.md-alert-note { border-left-color: rgb(9, 105, 218); }
+.md-alert.md-alert-important { border-left-color: rgb(130, 80, 223); }
+.md-alert.md-alert-warning { border-left-color: rgb(154, 103, 0); }
+.md-alert.md-alert-tip { border-left-color: rgb(31, 136, 61); }
+.md-alert.md-alert-caution { border-left-color: rgb(207, 34, 46); }
+.md-alert { padding: 0px 1em; margin-bottom: 16px; color: inherit; border-left-width: 0.25em; border-left-style: solid; border-left-color: rgb(0, 0, 0); }
+.md-alert-text-note { color: rgb(9, 105, 218); }
+.md-alert-text-important { color: rgb(130, 80, 223); }
+.md-alert-text-warning { color: rgb(154, 103, 0); }
+.md-alert-text-tip { color: rgb(31, 136, 61); }
+.md-alert-text-caution { color: rgb(207, 34, 46); }
+.md-alert-text { font-size: 0.9rem; font-weight: 700; }
+.md-alert-text svg { fill: currentcolor; position: relative; top: 0.125em; margin-right: 1ch; overflow: visible; }
+.md-alert-text-container::after { content: attr(data-text); text-transform: capitalize; pointer-events: none; margin-right: 1ch; }
 
-
-:root {
+</style>
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&amp;subset=latin,latin-ext' type='text/css' />
+<style type='text/css'  id="style-theme_css">:root {
     --side-bar-bg-color: #fafafa;
     --control-text-color: #777;
 }
@@ -227,7 +242,7 @@ mjx-container { break-inside: avoid; }
 }
 
 body {
-    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', 'SF Pro', sans-serif;
     color: rgb(51, 51, 51);
     line-height: 1.6;
 }
@@ -563,6 +578,10 @@ header, .context-menu, .megamenu-content, footer{
     background-color: var(--side-bar-bg-color);
 }
 
+.mac-os #write{
+    caret-color: AccentColor;
+}
+
 .md-lang {
     color: #b4654d;
 }
@@ -593,13 +612,20 @@ header, .context-menu, .megamenu-content, footer{
     background-color: #f5f8fa;
     background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
 }
-
-
- @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}} .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} h1,h2,h3,h4,h5 {white-space:pre-line}
-</style><title>CS246LN-W01-D2-SDLC</title>
+</style>
+<style type='text/css'  id="style-lp">ol, ul {padding-left: 40px}</style>
+<style type='text/css'  id="style-mac-print"> @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}</style>
+<style type='text/css'  id="style-preLinebreakOnExport"> .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;} h1,h2,h3,h4,h5 {white-space:pre-line}</style>
+<meta name="title" content="">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="material" content="">
+<meta name="author" content="">
+<meta name="generator" content="">
+<title>CS246LN-W01-D2-SDLC</title>
 </head>
 <body class='typora-export'><div class='typora-export-content'>
-<div id='write'  class=''><h1 id='approaches-to-software-development'><span>Approaches to Software Development</span></h1><p><strong><span>CS246N System Design</span></strong></p><div class='md-toc' mdtype='toc'><p class="md-toc-content" role="list"><span role="listitem" class="md-toc-item md-toc-h1" data-ref="n138"><a class="md-toc-inner" href="#approaches-to-software-development">Approaches to Software Development</a></span><span role="listitem" class="md-toc-item md-toc-h2" data-ref="n142"><a class="md-toc-inner" href="#the-sdlcsoftware-development-lifecycle">The SDLC—Software Development Lifecycle</a></span><span role="listitem" class="md-toc-item md-toc-h2" data-ref="n159"><a class="md-toc-inner" href="#software-development-processes">Software Development Processes</a></span><span role="listitem" class="md-toc-item md-toc-h3" data-ref="n160"><a class="md-toc-inner" href="#waterfall">Waterfall</a></span><span role="listitem" class="md-toc-item md-toc-h3" data-ref="n170"><a class="md-toc-inner" href="#agile">Agile</a></span><span role="listitem" class="md-toc-item md-toc-h4" data-ref="n178"><a class="md-toc-inner" href="#scrum">Scrum</a></span><span role="listitem" class="md-toc-item md-toc-h4" data-ref="n183"><a class="md-toc-inner" href="#kanban">Kanban</a></span><span role="listitem" class="md-toc-item md-toc-h2" data-ref="n188"><a class="md-toc-inner" href="#references">References</a></span></p></div><h2 id='the-sdlcsoftware-development-lifecycle'><span>The SDLC</span>&mdash;<span>Software Development Lifecycle</span></h2><p><span>Successful software doesn&#39;t stop being developed after the first </span><em><span>release to production</span></em><span>. It will continue to be developed, with bug fixes, security patches, and new features being added.</span></p><p><img src="SDLC-Maintenance-Highlighted.png" alt="SDLC-Maintenance-Highlighted" width="400px" align="center"/><span> </span></p><p><span>[SDLC diagram by Dzonatas - Own work, CC BY-SA 3.0</span></p><p><a href='https://commons.wikimedia.org/w/index.php?curid=4376189'></a></p><ol start='' ><li><p><span>Planning: A software project is proposed, and a plan is made for developing it.</span></p></li><li><p><span>Analysis: Requirements are written that define what the software will do for the end users.</span></p></li><li><p><span>Design: Decisions are made about technology and architecture of the software.</span></p></li><li><p><span>Implementation: Developers write the software and test it.</span></p></li><li><p><span>Maintenance: Bug fixes, security patches, and customer support.</span></p></li></ol><p>&nbsp;</p><h2 id='software-development-processes'><span>Software Development Processes</span></h2><h3 id='waterfall'><span>Waterfall</span></h3><p><img src="Waterfall_model.svg" alt="Waterfall_model" width="500px" /></p><p><a href='https://commons.wikimedia.org/w/index.php?curid=10633070'><span>Diagram by Peter Kemp / Paul Smith</span></a><span> Adapted from Paul Smith</span>&#039;<span>s work at wikipedia, CC BY 3.0</span></p><p><span>Notes: </span></p><ul><li><p><span>A planning step would precede requriements.</span></p></li><li><p><span>This steps would be executed one after another to produce the first version of the software</span>&mdash;<span> </span><em><span>production release</span></em><span> would happen after verification</span></p></li></ul><p>&nbsp;</p><h3 id='agile'><span>Agile</span></h3><p><img src="IterativeAgileDevelopment.png" alt="IterativeAgileDevelopment" style="zoom:150%;" /></p><p><span>Agile is a philosophy, not a process. The key idea behind </span><em><span>agile software development</span></em><span> is that it is an adaptive, iterative process in which:</span></p><ul><li><p><span>Developers deliver partially implemented, working software to users through the development process</span>&mdash;<span>at the end of each iteration (sprint).</span></p></li><li><p><span>End users give feedback to the developers throughout the process</span>&mdash;<span>at the end of each iteration (sprint).</span></p></li></ul><h4 id='scrum'><span>Scrum</span></h4><p><span>This is the most popular agile methodology. It focuses on learning from the iterative development process to continually improve the way the development team works, and to keep the software being developed aligned with the end user&#39;s needs.</span></p><p>&nbsp;</p><p><img src="scrum-framework.png" alt="scrum-framework" width="700px" style="zoom:130%;" /></p><p><em><span>Scrum framework (</span><a href='https://www.axelos.com/store/book/prince2-agile'><span>Source</span></a><span>)</span></em></p><h4 id='kanban'><span>Kanban</span></h4><p><span>This is a process that originated in the auto manufacturing industry (at Toyota) as a way to manage work in process through visualization. The </span><em><span>kanban board</span></em><span> is often used in conjunction with the </span><em><span>scrum</span></em><span> methodology.</span></p><p><img src="Kanban-board.png" alt="Kanban-board" style="zoom:125%;" /></p><p><em><span>Kanban Board (</span><a href='https://www.axelos.com/store/book/prince2-agile'><span>Source</span></a><span>)</span></em></p><p>&nbsp;</p><h2 id='references'><span>References</span></h2><p><a href='https://en.wikipedia.org/wiki/Systems_development_life_cycle'><span>Systems Development Lifecycle</span></a>&mdash;<span>Wikipedia</span></p><p><a href='https://en.wikipedia.org/wiki/Software_development_process'><span>Software Development Process</span></a>&mdash;<span>Wikipedia</span></p><p><a href='https://en.wikipedia.org/wiki/Waterfall_model'><span>Waterfall Model</span></a>&mdash;<span>Wikipedia</span></p><p><a href='https://www.agilealliance.org/agile101/'><span>Agile 101</span></a>&mdash;<span>The Agile Alliance</span></p><p><a href='https://www.bmc.com/blogs/scrum-vs-kanban/'><span>Scrum vs Kanban: A Comparison of Agile Methodologies</span></a>&mdash;<span>BMC Blogs</span></p><p>&nbsp;</p><hr /><p><a href='http://creativecommons.org/licenses/by/4.0/'><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" referrerpolicy="no-referrer" alt="Creative Commons License"></a>
+<div id='write'  class=''><h1>Approaches to Software Development</h1><p><strong><span>CS246N System Design</span></strong></p><div class='md-toc' mdtype='toc'><p class="md-toc-content" role="list"><span role="listitem" class="md-toc-item md-toc-h2" data-ref="n4"><a class="md-toc-inner" href="#the-sdlcsoftware-development-lifecycle">The SDLC—Software Development Lifecycle</a></span><span role="listitem" class="md-toc-item md-toc-h2" data-ref="n21"><a class="md-toc-inner" href="#software-development-processes">Software Development Processes</a></span><span role="listitem" class="md-toc-item md-toc-h3" data-ref="n22"><a class="md-toc-inner" href="#waterfall">Waterfall</a></span><span role="listitem" class="md-toc-item md-toc-h3" data-ref="n32"><a class="md-toc-inner" href="#agile">Agile</a></span><span role="listitem" class="md-toc-item md-toc-h4" data-ref="n40"><a class="md-toc-inner" href="#scrum">Scrum</a></span><span role="listitem" class="md-toc-item md-toc-h4" data-ref="n45"><a class="md-toc-inner" href="#kanban">Kanban</a></span><span role="listitem" class="md-toc-item md-toc-h2" data-ref="n50"><a class="md-toc-inner" href="#references">References</a></span></p></div><h2 id='the-sdlcsoftware-development-lifecycle'><span>The SDLC</span>&mdash;<span>Software Development Lifecycle</span></h2><p><span>Successful software doesn&#39;t stop being developed after the first </span><em><span>release to production</span></em><span>. It will continue to be developed, with bug fixes, security patches, and new features being added.</span></p><p><img src="SDLC-Maintenance-Highlighted.png" alt="SDLC-Maintenance-Highlighted" width="400px" align="center"/><span> </span></p><p><span>[SDLC diagram by Dzonatas - Own work, CC BY-SA 3.0</span></p><p><a href='https://commons.wikimedia.org/w/index.php?curid=4376189'></a></p><ol start='' ><li><p><span>Planning: A software project is proposed, and a plan is made for developing it.</span></p></li><li><p><span>Analysis: Requirements are written that define what the software will do for the end users.</span></p></li><li><p><span>Design: Decisions are made about technology and architecture of the software.</span></p></li><li><p><span>Implementation: Developers write the software and test it.</span></p></li><li><p><span>Maintenance: Bug fixes, security patches, and customer support.</span></p></li></ol><p>&nbsp;</p><h2 id='software-development-processes'><span>Software Development Processes</span></h2><h3 id='waterfall'><span>Waterfall</span></h3><p><img src="Waterfall_model.svg" alt="Waterfall_model" width="500px" /></p><p><a href='https://commons.wikimedia.org/w/index.php?curid=10633070'><span>Diagram by Peter Kemp / Paul Smith</span></a><span> Adapted from Paul Smith</span>&#039;<span>s work at wikipedia, CC BY 3.0</span></p><p><span>Notes: </span></p><ul><li><p><span>A planning step would precede requriements.</span></p></li><li><p><span>This steps would be executed one after another to produce the first version of the software</span>&mdash;<span> </span><em><span>production release</span></em><span> would happen after verification</span></p></li></ul><p>&nbsp;</p><h3 id='agile'><span>Agile</span></h3><p><img src="IterativeAgileDevelopment.png" alt="IterativeAgileDevelopment" style="zoom:150%;" /></p><p><span>Agile is a philosophy, not a process. The key idea behind </span><em><span>agile software development</span></em><span> is that it is an adaptive, iterative process in which:</span></p><ul><li><p><span>Developers deliver partially implemented, working software to users through the development process</span>&mdash;<span>at the end of each iteration (sprint).</span></p></li><li><p><span>End users give feedback to the developers throughout the process</span>&mdash;<span>at the end of each iteration (sprint).</span></p></li></ul><h4 id='scrum'><span>Scrum</span></h4><p><span>This is the most popular agile methodology. It focuses on learning from the iterative development process to continually improve the way the development team works, and to keep the software being developed aligned with the end user&#39;s needs.</span></p><p>&nbsp;</p><p><img src="scrum-framework.png" alt="scrum-framework" width="700px" style="zoom:130%;" /></p><p><em><span>Scrum framework (</span><a href='https://www.axelos.com/store/book/prince2-agile'><span>Source</span></a><span>)</span></em></p><h4 id='kanban'><span>Kanban</span></h4><p><span>This is a process that originated in the auto manufacturing industry (at Toyota) as a way to manage work in process through visualization. The </span><em><span>kanban board</span></em><span> is often used in conjunction with the </span><em><span>scrum</span></em><span> methodology.</span></p><p><img src="Kanban-board.png" alt="Kanban-board" style="zoom:125%;" /></p><p><em><span>Kanban Board (</span><a href='https://www.axelos.com/store/book/prince2-agile'><span>Source</span></a><span>)</span></em></p><p>&nbsp;</p><h2 id='references'><span>References</span></h2><p><a href='https://en.wikipedia.org/wiki/Systems_development_life_cycle'><span>Systems Development Lifecycle</span></a>&mdash;<span>Wikipedia</span></p><p><a href='https://en.wikipedia.org/wiki/Software_development_process'><span>Software Development Process</span></a>&mdash;<span>Wikipedia</span></p><p><a href='https://en.wikipedia.org/wiki/Waterfall_model'><span>Waterfall Model</span></a>&mdash;<span>Wikipedia</span></p><p><a href='https://www.agilealliance.org/agile101/'><span>Agile 101</span></a>&mdash;<span>The Agile Alliance</span></p><p><a href='https://www.bmc.com/blogs/scrum-vs-kanban/'><span>Scrum vs Kanban: A Comparison of Agile Methodologies</span></a>&mdash;<span>BMC Blogs</span></p><p>&nbsp;</p><hr /><p><a href='http://creativecommons.org/licenses/by/4.0/'><img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License"></a>
 <span>System Design Lecture Notes by </span><a href='https://profbird.dev'><span>Brian Bird</span></a><span>, 2021, revised </span><time><span>2024</span></time><span>, are licensed under a </span><a href='http://creativecommons.org/licenses/by/4.0/'><span>Creative Commons Attribution 4.0 International License</span></a><span>.</span></p><hr /><p>&nbsp;</p></div></div>
-<base target="_blank"></body>
+</body>
 </html>
