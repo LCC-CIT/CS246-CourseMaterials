@@ -31,9 +31,12 @@ Prepare in advance for this week by reading the Jira guides and registering for 
 
   [Register here](https://globalgamejam.org/user/login).
 
-- Next Monday, 1/19 is a holiday, Martin Luther King Jr. day. LCC will be closed. There will not be class.
+- Next Monday, 1/19, is a holiday, Martin Luther King Jr. day. LCC will be closed. There will not be class.
 
+## Client Search
 
+- Has anyone found poteantial clients yet?
+- Request from LCC faculty: Rick Riordan, who teaches in Health Professions, met with me yesterday to ask if a team could build a student progress tracking web site for them.
 
 ## Due Dates
 
