@@ -28,18 +28,18 @@ Focus your questions on getting more details about the requirements. Don't propo
 
 ### Requirements Document
 
-The document you submit should be at least two pages in length, but not more than three, and should be written in clear and concise English. The document should include all the elements of a requriements document described in the class lecture and shown in the example requirements document for Titan Park. 
+The document you submit should be at least five pages in length, but not more than ten, and should be written in clear and concise English. The document should include all the elements of a requirements document described in the class lecture and shown in the example requirements document for Titan Park. 
 
 This requirements document will focus on just those problems that you have decided to solve with the system you will design. It might not address every issue that came up in the first interview.
 
 The functional requirements should just describe what the system needs to do, not how it will do it. They should be written so that a non-technical stakeholder can understand them. 
 For example a functional requirement **might be**:
 
-*The system will provide a way for volunteers to create a profile that includes contact information, skills, and perferred types of projects.*
+*The system will provide a way for volunteers to create a profile that includes contact information, skills, and preferred types of projects.*
 
-**Not:**
+**Note:**
 
-*There will be a database for storing volunteer informaiton that comes from a web page with fileds for contact information, a drop-down list for choosing skills and a list with check-boxes for preferred project types.*
+*There will be a database for storing volunteer information that comes from a web page with fields for contact information, a drop-down list for choosing skills and a list with check-boxes for preferred project types.*
 
 ## Teamwork
 
@@ -55,7 +55,7 @@ Submit the following to Moodle. You will make one submission for the whole team.
 - **Requirements Document**
 - **Team contribution report**:  
 
-  a document describing who did which parts of the project. 
+  A document describing who did which parts of the project. 
 
 Documents must be in docx or pdf format. Do not zip the document. Do not upload just a link to the document. Only one team member needs to make a submission on behalf of the team.
 
