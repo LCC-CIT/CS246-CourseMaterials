@@ -1,4 +1,4 @@
-# **UX Design**
+<h1>UX Design</h1>
 
 **CS246N System Design**
 
@@ -75,6 +75,12 @@ This content was condensed from: [What Is User Experience Design? Overview, Tool
 
 ## UX / UI Design Tools
 
+- [Figma](https://www.figma.com/design/)&mdash; A collaborative web application for interface and UX design.
+  - Both web based and desktop versions are available (Windows and Mac OS).
+  - Can be used by both *developers* and by *designers*
+  - Facilitates the full design process from brainstorming and wireframes through finished designs.
+  - [Free, full-featured, academic accounts]([Figma for higher education](https://www.figma.com/education/higher-education/)) are available for students and educators, limited free accounts available for all others.
+  - Can be used to generate code from the UX design.
 - [BalsaImiq](https://balsamiq.com/)&mdash;A rapid wire-framing tool that reproduces the experience of sketching on a whiteboard.
   - Both desktop and web based versions are available.
     - Desktop version: runs on Windows and Mac OS.
@@ -83,22 +89,16 @@ This content was condensed from: [What Is User Experience Design? Overview, Tool
     This tool is mainly used by *developers* rather than *designers*.
   - Wireframes can be connected together as working prototypes.
   - I have requested a free cloud account for everyone in the class.
-- [Pencil](http://pencil.evolus.vn)&mdash;A desktop GUI diagramming tool that is easy to use to create wire-frames or mock-ups.
-     - Free, open-source.
-
-     - Runs on Windows, Mac OS, and Linux.
-- [Figma](https://www.figma.com/design/)&mdash; A collaborative web application for interface and UX design.
-     - Both web based and desktop versions are available (Windows and Mac OS).
-     - Can be used by both *developers* and by *designers*
-     - Facilitates the full design process from brainstorming and wireframes through finished designs.
-     -  [Free, full-featured, academic accounts](https://figma.com/education/apply) are available for studnts and educators, limited free accounts available for others.
-     - Can be used to generate actual user interfaces.
 - [Lucidchart](https://www.lucidchart.com/pages/)&mdash;A visual work-space that combines diagramming, data visualization and collaboration.
      - Free accounts for students.
      - Web app, runs in a browser.
 - [Google Drawings](https://docs.google.com/drawings)&mdash;Part of the Google Docs web based suite of applications. This is not specifically for UX design. It is a general purpose drawing tool, so it will take more effort to use it to produce wireframes or mock-ups.
      - Free
      - Quick, easy line drawings.
+- [Pencil](http://pencil.evolus.vn)&mdash;A desktop GUI diagramming tool that is easy to use to create wire-frames or mock-ups.
+     - Free, open-source.
+
+     - Runs on Windows, Mac OS, and Linux.
 
 
 ### Example UI Diagrams       
@@ -122,7 +122,7 @@ This content was condensed from: [What Is User Experience Design? Overview, Tool
   
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-System Design Lecture Notes by [Brian Bird](https://profbird.dev), 2021, revised <time>2025</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+System Design Lecture Notes by [Brian Bird](https://profbird.dev), 2021, revised <time>2026</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [^1]: A wireframe is a simplified, "low-fidelity" diagram of a UI that shows just the outlines of controls, text areas, and images and does not include color, styling, or content details. 
 [^2]: A mock-up is a "high-fidelity" diagram of a UI that includes content, images.color, and styling.

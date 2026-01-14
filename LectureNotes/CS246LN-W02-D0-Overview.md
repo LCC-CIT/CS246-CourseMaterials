@@ -43,6 +43,10 @@ Prepare in advance for this week by reading the Jira guides and registering for 
 - Thursday, 1/15: Assignment 1&mdash;Requriements gathering and documentation
 - Thursday, 1/22: Assignment 2&mdash;User stories and Jira project
 
+## Next Week
+
+Next week we will be doing UX (User eXperience) design. We'll be using [Figma](https://www.figma.com/education/higher-education/) as the design tool. It wouldn't hurt to download it and start getting familiar with it ahead of time.
+
 
 
 ------
