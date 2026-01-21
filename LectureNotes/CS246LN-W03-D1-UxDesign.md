@@ -18,7 +18,7 @@ Universal access means designing our web sites for those who have special requir
 
 ## What Do UX Designers Do?
 
-UX designers study and evaluate how users feel about a system, looking at such things as ease of use, perception of the value of the system, utility, and efficiency in performing tasks.
+UX designers study and evaluate how users *feel* about a system, looking at such things as ease of use, perception of the value of the system, utility, and efficiency in performing tasks.
 
 For example, they might study the checkout process of an online store to see whether users find the process of buying products from the website easy and pleasant. 
 
