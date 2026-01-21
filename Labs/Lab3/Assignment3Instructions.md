@@ -1,16 +1,21 @@
 **CS246, System Design**
 
-# Assignment 3 - UX Design and Testing
+<h1>Assignment 3 - UX Design and Testing</h1>
 
 Your team will create UX wire-frame diagrams (*test artifacts*), recruit testers to test them and write a report on the test feedback.
 
-## Wire-frames
+[TOC]
 
-Create a set of UX test artifacts&mdash;at least one per group member. All the wireframes should be for the same web app. You will need to collaborate on the design so all the diagrams have the same layout and navigation style. 
+## Wireframes
+
+Create a set of UX test artifacts&mdash;at least two per group member. All the wireframes should be for the  web app you wrote the user stories for. Try to make a complete set of wireframes for one or more epics. You will need to collaborate on the design so all the diagrams have the same layout and navigation style. 
+
+Example: ![wireframe of a webpage](../../LectureNotes/Images/FigmaWirefreameExmaple.png)&mdash;Image by Figma 
+(When you make wireframes you don't need to include the laptop like this one does.)
 
 ## Testing
 
-As a group, recruit at least three testers. Get feedback on the usability and user experience of your group's UI artifacts from them. You can do this in a focus group setting or through individual testers working with your UI.
+As a group, recruit at least two testers. Get feedback on the usability and user experience of your group's UI artifacts from them. You can do this in a focus group setting or through individual testers working with your UI.
 
 ## UX Testing Report
 
@@ -50,12 +55,13 @@ Only one group member needs to submit the assignment on behalf of the whole grou
 
 ## Assessment
 
-[Lab 4 grading rubric](CS233JS_Lab04_Rubric.htm)
+[Lab 3 grading rubric](Assignment3Rubric.htm)
 
 
 
 ------
 
-Written 2018 by  Brian Bird, revised winter <time>2025</time> by Brian Bird
+Written 2018 by  Brian Bird, revised winter <time>2026</time> by Brian Bird
 
 -----
+
