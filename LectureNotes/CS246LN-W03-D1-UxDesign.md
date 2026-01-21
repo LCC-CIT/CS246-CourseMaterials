@@ -76,7 +76,10 @@ This content was condensed from: [What Is User Experience Design? Overview, Tool
 ## UX / UI Design Tools
 
 - [Figma](https://www.figma.com/design/)&mdash; A collaborative web application for interface and UX design.
-  - [Free, full-featured, academic accounts](https://www.figma.com/education/) are available for students and educators, limited free accounts available for all others.
+  - [Free, full-featured, academic accounts](https://www.figma.com/education/) are available for students and educators, limited free accounts available for all others.  
+    Application process:
+    - You will be asked to provide verification as a student. Some students have been able to do this simply by providing a .edu email address, others have reported needing to upload other documentation.
+    - Select the free starter plan, not a paid plan. After you enter the app, you can upgrade to a higher level for free (if you are a verified student).
   - Both web based and desktop versions are available (Windows and Mac OS).
   - Can be used by both *developers* and by *designers*
   - Facilitates the full design process from brainstorming and wireframes through finished designs.
