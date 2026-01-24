@@ -76,10 +76,14 @@ This content was condensed from: [What Is User Experience Design? Overview, Tool
 ## UX / UI Design Tools
 
 - [Figma](https://www.figma.com/design/)&mdash; A collaborative web application for interface and UX design.
+  - [Free, full-featured, academic accounts](https://www.figma.com/education/) are available for students and educators, limited free accounts available for all others.  
+    Application process:
+    - You will be asked to provide verification as a student. Some students have been able to do this simply by providing a .edu email address, others have reported needing to upload other documentation.
+    - Select the free starter plan, not a paid plan. After you enter the app, you can upgrade to a higher level for free (if you are a verified student).
   - Both web based and desktop versions are available (Windows and Mac OS).
   - Can be used by both *developers* and by *designers*
   - Facilitates the full design process from brainstorming and wireframes through finished designs.
-  - [Free, full-featured, academic accounts]([Figma for higher education](https://www.figma.com/education/higher-education/)) are available for students and educators, limited free accounts available for all others.
+  - Multiple users can collaborate together on one project at the same time.
   - Can be used to generate code from the UX design.
 - [BalsaImiq](https://balsamiq.com/)&mdash;A rapid wire-framing tool that reproduces the experience of sketching on a whiteboard.
   - Both desktop and web based versions are available.
