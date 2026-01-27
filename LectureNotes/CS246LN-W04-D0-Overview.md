@@ -1,10 +1,23 @@
 <h1>Week 4 Overview and Announcements</h1>
 
-**CS246N System Design, Winter 2025**
+**CS246N System Design, Winter 2026**
 
 <h2>Contents</h2>
 
 [TOC]
+
+## Announcements
+
+- **Global Game Jam!** <img src="Images/GlobalGameJamLogo.svg" alt="GlobalGameJamLogo" style="zoom:67%;" />  
+  *Get together and create games in one weekend with devs in over 800 locations worldwide.*  
+  LCC building 19, room 135 (CIT lab).  Food provided!
+
+  - Friday 1/30, 2:00pm to 9:00pm
+  - Saturday 1/31, 9:00am to 9:00pm
+  - Sunday 2/1, 9:00am to 7:00pm
+
+  [Register here](https://globalgamejam.org/user/login).
+
 
 ## Discussion
 
@@ -19,7 +32,7 @@
 
 ## Due Dates
 
-- Thursday, 1/30: Assignment 3&mdash;UX Design and Testing
+- Thursday, 1/29: Assignment 3&mdash;UX Design and Testing
 
 ## Next Week: Capstone Project Clients
 
@@ -37,7 +50,7 @@
 ------
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-System Design Course Materials by [Brian Bird](https://profbird.dev), <time>2025</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+System Design Course Materials by [Brian Bird](https://profbird.dev), <time>2026</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ---
 
