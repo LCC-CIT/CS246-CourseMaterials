@@ -28,7 +28,8 @@
   - Team members
   - One sentence project description
 - If your team doesn't have a project yet, drop in  (or Zoom in) to my office hours so we can discuss possibilities.
-- You will start gathering requiremnts for your project from your client next week. 
+- The project you do for your client will need to include all the types of web app features [required for the capstone project](https://lcc-cit.github.io/CS297-CourseMaterials/CapstoneProjectRequirements.html).
+- You will start gathering requirements for your project from your client next week. 
 - **As soon as you can, schedule a meeting with your client to interview them about the project requirements. You should meet with them as a team during week 5 (next week).**
 
 

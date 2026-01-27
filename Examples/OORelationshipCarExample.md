@@ -9,64 +9,63 @@
 ### C# Code
 
 ```c#
-class Program
-{
-    static void Main(string[] args)
-    {
-        HybridCar prius = new HybridCar();
-        prius.Driver = new Person { Name = "Mario" };
-        prius.Go();
-
-        Console.WriteLine("Your car is being driven by {0} at {1} MPH",
-            prius.Driver.Name, prius.Speed);
-    }
-}
-
 class Car
 {
-    private Engine gasEngine = new Engine();
-    public Person? Driver { get; set; }
-    public List<Person>? Passengers { get; set; }
+    // Instance variables
+    private readonly Engine gasEngine = new Engine();  // composition relationship
+
+    // Properties
+    public Person? Driver { get; set; }   // aggregation relationship
+    public List<Person>? Passengers { get; set; } // aggregation relationship
+
+    // Methods
     public int Speed
     {
         get { return gasEngine.RPM / 100; }
     }
 
-    public void Go()
+    public virtual void Go()
     {
         gasEngine.RPM = 1000;
     }
 
-    public void Stop()
+    public virtual void Stop()
     {
         gasEngine.RPM = 0;
     }
 }
+```
 
-class HybridCar : Car
-{
-    private Engine electricMotor = new Engine();
-
-    public void Go()
-    {
-        electricMotor.RPM = 1000;
-        base.Go();
-    }
-
-    public void Stop()
-    {
-        electricMotor.RPM = 0;
-    }
-}
-
+```c#
 class Engine
 {
     public int RPM { get; set; }
 }
+```
 
+```c#
 class Person
 {
-    public string Name { get; set; }
+    public string? Name { get; set; }
+}
+```
+
+```c#
+class HybridCar : Car
+{
+    private readonly Engine electricMotor = new();   // composition relationship
+
+    public override void Go()
+    {
+        electricMotor.RPM = 1000;
+        base.Go();  // sets the gas engine RPM as well
+    }
+
+    public override void Stop()
+    {
+        electricMotor.RPM = 0;
+        base.Stop();
+    }
 }
 ```
 
