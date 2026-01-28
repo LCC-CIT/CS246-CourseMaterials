@@ -42,7 +42,7 @@ In this course you will learn:
 
 ## Capstone project
 
-You will start your capstone project in <u>week five</u> of this course. Start brainstorming ideas for a project now by looking for a client out there in the real world that you can develop a web site for.
+You will start your capstone project in <u>week five</u> of this course. Start brainstorming ideas for a project now by looking for a client out there in the real world that you can develop a web site for. The project you do for your client will need to include all the types of web app features [required for the capstone project](https://lcc-cit.github.io/CS297-CourseMaterials/CapstoneProjectRequirements.html).
 
 ### Finding a Project Client
 
