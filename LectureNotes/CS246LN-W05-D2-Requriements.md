@@ -22,7 +22,7 @@ In small or mid-sized companies all of these functions might be done by software
 
 ### Business Requirements
 
-*Business requirements* are the business problems or needs that a software product will be a solution for.  They include goals and objectives, stakeholder needs, functional and non-functional requirements, constraints, and use cases. 
+*Business requirements* are the business problems (aka needs) that a software product will be a solution for.  They include goals and objectives, stakeholder needs, functional and non-functional requirements, constraints, and use cases. 
 
 ### Software Requirements
 
@@ -30,14 +30,14 @@ In small or mid-sized companies all of these functions might be done by software
 
 ## Requirements Documentation in This Course
 
-In this course you are writing a requirements document that merges business requirements and software requirements. You are further documenting the requirements with user stories. You are making UX diagrams to further refine the software requireemnts as well as to start the design of the software solution.
+In this course you are writing a requirements document that merges business requirements and software requirements. You are further documenting the requirements with user stories. You will also be making UX diagrams to further refine the software requireemnts as well as to start the design of the software solution.
 
 
 
 ------
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-System Design Lecture Notes by [Brian Bird](https://profbird.dev), <time>2025</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+System Design Lecture Notes by [Brian Bird](https://profbird.dev), 2025, revised <time>2026</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ------
 
