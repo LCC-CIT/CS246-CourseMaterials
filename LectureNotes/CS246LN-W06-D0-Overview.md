@@ -36,16 +36,16 @@ This assignment has staggered due dates:
 
 - This Week
   - Assignment 5A - Team Contract  
-    Due: Thursday, February 12, 2025, 11:59 PM
+    Due: Thursday, February 12
   - Assignment 5B - Requirements Document  
-    Due: Thursday, February 12, 2025, 11:59 PM
+    Due: Thursday, February 12
 - Next Week
   - Assignment 6A - Site Map and Wireframes Assignment
-    Due: Sunday, February 15, 2025, 11:59 PM
+    Due: Sunday, February 15
   - Assignment 6B - UX Test Report Assignment
-    Due: Tuesday, February 17, 2025, 11:59 PM
+    Due: Tuesday, February 17
   - Assignment 6C - Revised Site Map and Wireframes Assignment
-    Due: Thursday, February 19, 2025, 11:59 PM
+    Due: Thursday, February 19
 
 If you need more time, ask your instructor to adjust the due dates for your team. Especially if you need more time to meet  with your client for assignment parts 6B and 6C.
 

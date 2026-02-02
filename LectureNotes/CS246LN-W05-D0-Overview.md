@@ -2,8 +2,6 @@
 
 **CS246N System Design, Winter 2026**
 
-**
-
 | Weekly topics                                            |                                         |
 | -------------------------------------------------------- | --------------------------------------- |
 | 1. Software Solution Requirements                        | 6. Real Project: UX Design              |
