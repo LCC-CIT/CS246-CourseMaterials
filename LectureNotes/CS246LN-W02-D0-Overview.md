@@ -35,7 +35,7 @@ Prepare in advance for this week by reading the Jira guides and registering for 
 
 ## Client Search
 
-- Has anyone found poteantial clients yet?
+- Has anyone found potential clients yet?
 - Request from LCC faculty: Rick Riordan, who teaches in Health Professions, met with me yesterday to ask if a team could build a student progress tracking web site for them.
 
 ## Due Dates
