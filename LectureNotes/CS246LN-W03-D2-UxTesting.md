@@ -1,4 +1,4 @@
-# User eXperience Testing
+<h1>User eXperience Testing</h1>
 
 **CS246, System Design**
 
@@ -71,7 +71,7 @@ Based on the Book: *Rocket Surgery Made Easy, The Do-It-Yourself Guide to Findin
 - Recruit from a wide pool.
   - Getting people who are like your "target audience" is a nice goal, but don't be too strict about it.
   - Don't use the same group of testers twice; unless all they saw were sketches&mdash;if you can.
-              
+  
 - Make it a spectator sport (about the observers, the devs)
   - The eureka moment: the users aren't all like me!
   - Watching live is more impactful than watching a recording.

@@ -3,7 +3,7 @@ title: OO Analysis and Design with UML
 description: A review  Object Oriented Programming (OOP) concepts for designing software solutions.
 ---
 
-# OO Analysis and Design with UML
+<h1>OO Analysis and Design with UML</h1>
 
 **CS246N System Design**
 

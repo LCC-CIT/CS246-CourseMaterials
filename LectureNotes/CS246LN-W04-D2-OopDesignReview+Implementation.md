@@ -3,7 +3,7 @@ title: Coding Examples: Class diagram to C#
 description: Explanation and examples of how a UML class diagram would be implemented in C# code.
 ---
 
-# OO Design: Coding Examples
+<h1>OO Design: Coding Examples</h1>
 
 **CS246N System Design**
 
