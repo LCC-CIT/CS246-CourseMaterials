@@ -6,7 +6,7 @@
 | -------- | ------------------------ | ---- | ------------ | ---------------------- |
 | **Course Number** | CS 246 |      | Name         | Brian Bird             |
 | **CRN** | 31893 Hybrid (on campus)  <br />32357 Online |      | Email<br />Text/Voice | [birdb@lanecc.edu](mailto:birdb@lanecc.edu)<br />[‪(541) 525-0213‬](tel:5415250213) |
-| **Time** | M, W; 2:00&ndash;3:50 |      | Office Hours | M, W 4:00–4:50<br />Tu, Th 2:00–2:50 |
+| **Time** | M, W; 2:00&ndash;3:50 |      | Office Hours | M, W 1:00–1:50<br />Tu, Th 2:00–2:50 |
 | **Room** | Building 19, Room 126<br /> or [Zoom meeting](https://lanecc.zoom.us/j/91892228775) |      | Office | Building 19, Room 152<br /> or [Zoom meeting](https://lanecc.zoom.us/j/8982554800) |
 
 <h2>Contents</h2>
