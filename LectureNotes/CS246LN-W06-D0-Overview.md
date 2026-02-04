@@ -1,6 +1,6 @@
 <h1>Week 6 Overview and Announcements</h1>
 
-<h2>February 9 through 15</h2>
+<h2>February 9 through 15, 2026</h2>
 
 **CS246N System Design**
 
