@@ -2,6 +2,15 @@
 
 **CS246N System Design, Winter 2026**
 
+| Weekly topics                               |                                         |
+| ------------------------------------------- | --------------------------------------- |
+| 1. Software Solution Requirements           | 6. Real Project: UX Design              |
+| 2. Agile Project Management                 | 7. Real Project: Epics and User Stories |
+| 3. UX Design and Testing                    | 8. Design Patterns                      |
+| <mark>4. OO Design with UML</mark>          | 9. Real Project: Prototyping            |
+| 5. Starting Your Real Project: Requirements | 10. Real Project: Client Contract       |
+|                                             | 11. Design Presentations                |
+
 <h2>Contents</h2>
 
 [TOC]
@@ -22,10 +31,9 @@
 ## Discussion
 
 - How is UX Design and testing going (assignment 3)? Any questions?
-- Next week you will start working with your real client
-  - Which teams have a client? 
-  - Which teams are still looking?
-  - Do any teams have more than one lead on a client?
+- **Next week you will start working with your real client**
+  - You need to schedule a time for your team to **meet with your client before the end of next week** to interview them so you can start gathering requirements.
+  
 
 
 - If anyone wants to change teams, DM me or send me an e-mail.
@@ -43,7 +51,7 @@
 - If your team doesn't have a project yet, drop in  (or Zoom in) to my office hours so we can discuss possibilities.
 - The project you do for your client will need to include all the types of web app features [required for the capstone project](https://lcc-cit.github.io/CS297-CourseMaterials/CapstoneProjectRequirements.html).
 - You will start gathering requirements for your project from your client next week. 
-- **As soon as you can, schedule a meeting with your client to interview them about the project requirements. You should meet with them as a team during week 5 (next week).**
+- **As soon as you can, schedule a meeting with your client to interview them about the project requirements. You should meet with them as a team early in week 5 (next week).**
 
 
 

@@ -32,8 +32,8 @@ The document you submit should be at least five pages in length, but not more th
 
 This requirements document will focus on just those problems that you have decided to solve with the system you will design. It might not address every issue that came up in the first interview.
 
-The functional requirements should just describe what the system needs to do, not how it will do it. They should be written so that a non-technical stakeholder can understand them. 
-For example a functional requirement **might be**:
+The ***functional requirements*** should just describe what the system needs to do, not how it will do it. They should be written so that a non-technical stakeholder can understand them. 
+For example a *functional requirement* might be:
 
 *The system will provide a way for volunteers to create a profile that includes contact information, skills, and preferred types of projects.*
 
