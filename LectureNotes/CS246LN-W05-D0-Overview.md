@@ -35,7 +35,7 @@
 - How is Object Oriented Design with UML going (assignment 4)? Any questions?
 - This week you start your "real" project with a client. 
   - **Do you all have meetings scheduled to interview your client this week?**  
-    You will need to meet with them this week for the requirements assignment.
+    You will need to meet with them early this week for the requirements assignment.
   
 
 
