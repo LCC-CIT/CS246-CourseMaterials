@@ -1,6 +1,6 @@
 <h1>Week 8 Overview and Announcements</h1>
 
-**CS246N System Design**
+**CS246N System Design, winter 2026**
 
 | Weekly topics                               |                                         |
 | ------------------------------------------- | --------------------------------------- |
@@ -25,7 +25,9 @@
   - Any general questions?
 - Announcements
 
-  - There are openings for students to work in the CIT lab.  If you were awarded work study funds for AY 2024-25, you can learn more and apply here: https://lanecc.studentemployment.ngwebsolutions.com/JobXJobDetail.aspx?JobId=9586&s=1
+  - **Last week to withdraw or change grading options**. This Friday, May 23, is the last day to make schedule changes for this term. This includes dropping a course, withdrawing, or changing grading methods.
+  
+    NOTE: You should consult an [advisor](https://www.lanecc.edu/get-support/academic-support/academic-advising) and/or [financial aid](https://www.lanecc.edu/costs-admission/paying-college/financial-aid) representative before making these kinds of changes, especially withdrawing. These types of changes may have implications for academic progress and/or financial aid awards. This is not always the case, but it's best to be informed.
 
 ## Registration for Spring Term
 
@@ -35,16 +37,13 @@ If you are a full-time student, the courses reccomended for spring term are:
 
 - CS 297 Capstone Project
 - CS 276 Advanced SQL
-- CS 280PR Co-op Education: Programming
+- CS 280PR Co-op Education: Programming Internship
 - Directed Elective, these are recommended:
-  - CS235M Advanced Mobile Application Development 
-    This is required for the Mobile App Development certificate,
-  - CS295R Web Development 1: React 
-    This is required for the Front-End Web Development certificate.
+  - CS 235M Advanced Mobile Application Development 
+    This is required for the Mobile App Development certificate
+  - CS 260 Data Structures 1
 
-For more info on requirements for the AAS in Software Development see the [LCC catalog](https://lanecc.smartcatalogiq.com/en/2024-2025/lcc-catalog/programs-of-study/computer-information-technology/software-development-aas/).
-
-[Spring 2025 Computer Information Technology Class Schedule](https://crater.lanecc.edu/banp/zwsktsc2.P_DispGroupSchd?chunk_in=C2550&term_in=202540&)
+For more info on requirements for the AAS in Software Development see the [LCC catalog](https://lanecc.smartcatalogiq.com/current/lcc-catalog).
 
 
 
@@ -67,7 +66,7 @@ For more info on requirements for the AAS in Software Development see the [LCC c
 ------
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-System Design Course Materials by [Brian Bird](https://profbird.dev), <time>2025</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+System Design Course Materials by [Brian Bird](https://profbird.dev), <time>2026</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ---
 
