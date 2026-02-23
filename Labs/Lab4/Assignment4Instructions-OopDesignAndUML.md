@@ -1,6 +1,6 @@
 **CS246, System Design**
 
-# Assignment 4 - OOP Design
+# Assignment  - OOP Design
 
 ## Part 1: Designing a model for a simple game
 
@@ -38,8 +38,8 @@ As a group, submit the following to Moodle:
    - One copy in UMLet format, .uxf
    - Another copy in .pdf format.
 
- ---
- 
+---
+
 Written winter 2021, revised winter 2024 by  Brian Bird
 
 ---
