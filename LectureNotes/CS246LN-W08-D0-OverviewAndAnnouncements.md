@@ -25,7 +25,7 @@
   - Any general questions?
 - Announcements
 
-  - **Last week to withdraw or change grading options**. This Friday, May 23, is the last day to make schedule changes for this term. This includes dropping a course, withdrawing, or changing grading methods.
+  - **Last week to withdraw or change grading options**. This Friday, Feb. 27, is the last day to make schedule changes for this term. This includes dropping a course, withdrawing, or changing grading methods.
   
     NOTE: You should consult an [advisor](https://www.lanecc.edu/get-support/academic-support/academic-advising) and/or [financial aid](https://www.lanecc.edu/costs-admission/paying-college/financial-aid) representative before making these kinds of changes, especially withdrawing. These types of changes may have implications for academic progress and/or financial aid awards. This is not always the case, but it's best to be informed.
 
