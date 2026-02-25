@@ -74,6 +74,18 @@ Most of these design patterns are specifically concerned with communication betw
 
 
 
+## Architectural Design Patterns
+
+Design patterns (like those from the Gang of Four) usually solve local problems—how two or three classes interact to solve a specific logic puzzle. *Architectural patterns* dictate the "blueprints" of the entire house.
+
+### Examples of Architectural Patterns
+
+- Layered (Three-tier, or N-Tier) Architecture
+- Model View Controller (MVC)
+- Repository Pattern
+
+
+
 ## ASP.NET Design Patterns
 
 ### Formal vs. Informal Patterns
@@ -85,7 +97,7 @@ Most of these design patterns are specifically concerned with communication betw
 
 - MVC is "baked in".
 - Iterator is a part of the .NET collection classes.
-- What other formal patterns have we used?[^1]
+- Repository Pattern
 
 ## Exercise
 
@@ -108,7 +120,7 @@ Homer, Alex. [ASP.NET Patterns every developer should know](https://www.develope
 ------
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-System Design Lecture Notes by [Brian Bird](https://profbird.dev), 2018, revised <time>2025</time>, is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+System Design Lecture Notes by [Brian Bird](https://profbird.dev), 2018, revised <time>2026</time>, is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [^1]: The Repository Pattern
 [^2]: The Observer Pattern
