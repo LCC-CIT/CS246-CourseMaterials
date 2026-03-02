@@ -15,9 +15,15 @@
 
 [TOC]
 
-## Discussion and Announcements
+## Announcements and Discussion
+
+- **LCC Foundation Scholarships** 
+  The LCC Foundation scholarship application is now open! Just one simple application connects LCC students to hundreds of scholarship opportunities available ONLY to them. Apply before the March 3rd deadline! This is for students who will be at LCC for the 2026-27 academic year.
+
+  Resource: [More Information](https://out.smore.com/e/5xfb7/638W3H?__$u__) | Contact: [Kaisa Lightfoot - LCC Foundation](https://out.smore.com/e/5xfb7/y-lGQ7?__$u__)
 
 - **Q and A**
+  
   - Has everyone gotten feedback from your clients on your user stories (demonstrated with the UX diagrams)?
   - Any general questions?
 
