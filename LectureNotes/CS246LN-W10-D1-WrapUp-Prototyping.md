@@ -3,7 +3,7 @@ title: End of term wrap-up, prototyping
 description: Discussion of Tip of the Day prototype.
 keywords: Prototype, ASP.NET MVC 6.0, Scaffolding
 ---
-# End of Term Wrap-Up, Prototyping
+<h1>End of Term Wrap-Up, Prototyping</h1>
 
 **CS246N System Design**
 

@@ -1,12 +1,14 @@
-# Assignment 8 - Domain Model
+**CS 246, System Design**
+
+# Assignment 8 - Domain Model Prototype
 
 ## Instructions
 
 - Design a domain model for your client's web app by creating a UML class diagram.
 - Create a new Git repository for your web app on GitHub.
 - Create an ASP.NET MVC web app project in Visual Studio
-  - Enable Identity in the project configuration, before you create the project, so that it automaically creates Identity user registration and login pages for you as well as adding a DbContext class and code for a database.
-  - Put the new project in your Git repository
+  - In the ndw project configuration, choose "Individual accounts", so that it automaically creates Identity user registration and login pages for you as well as adding a DbContext class and code for a database.
+  - Put the new project in your Git repository.
 
 - Code the C# classes for the domain model.
 - Create scaffolding to test key model classes.
@@ -24,4 +26,4 @@ This web app project is just a prototype. You will throw it away after it has be
 
 
 
-Written Winter 2020, revised <time>2023</time> by  Brian Bird, Lane Community College, for CS246, System Design.
+Written Winter 2020, revised <time>2026</time> by  Brian Bird, Lane Community College, for CS246, System Design.
