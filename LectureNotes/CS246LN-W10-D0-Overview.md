@@ -1,6 +1,6 @@
 <h1>Week 10 Overview and Announcements</h1>
 
-**CS246N System Design**
+**CS246N System Design, winter 2026**
 
 | Weekly topics                               |                                         |
 | ------------------------------------------- | --------------------------------------- |
@@ -20,8 +20,8 @@
 - **Q and A**
   - How is the prototype lab going?
   - Any general questions?
-- **Announcements**
-  - **Library Study Jam!**  The Library, Phi Theta Kappa (PTK) and Student Government will be hosting a Study Jam on Tuesday, March 11 from 3-5 pm in the Library. Free pizza, drinks and snacks will be available at 3 pm. Get tutoring and advising help, pet a therapy dog, and learn yoga relaxation techniques. 
+- **Announcements**  
+  **Reg Fest.** Wednesday, March 11 from 9am to 2pm. Get advising or registration assistance for spring as a new or continuing student. No appointment necessary! 
 
 ## Registration for Spring Term
 
@@ -39,12 +39,8 @@ If you are a full-time student, the courses reccomended for spring term are:
 - Directed Elective, these are recommended:
   - CS235M Advanced Mobile Application Development 
     This is required for the Mobile App Development certificate,
-  - CS295R Web Development 1: React 
-    This is required for the Front-End Web Development certificate.
 
-For more info on requirements for the AAS in Software Development see the [LCC catalog](https://lanecc.smartcatalogiq.com/en/2024-2025/lcc-catalog/programs-of-study/computer-information-technology/software-development-aas/).
-
-[Spring 2025 Computer Information Technology Class Schedule](https://crater.lanecc.edu/banp/zwsktsc2.P_DispGroupSchd?chunk_in=C2550&term_in=202540&)
+For more info on requirements for the AAS in Software Development see the [LCC catalog](https://lanecc.smartcatalogiq.com/en/current/lcc-catalog/programs-of-study/computer-information-technology/software-development-aas/).
 
 
 
@@ -61,7 +57,7 @@ Look at the due dates on Moodle.
 ------
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-System Design Course Materials by [Brian Bird](https://profbird.dev), <time>2025</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+System Design Course Materials by [Brian Bird](https://profbird.dev), <time>2026</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ---
 
