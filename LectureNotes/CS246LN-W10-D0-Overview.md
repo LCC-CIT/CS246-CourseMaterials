@@ -29,9 +29,9 @@
 
 - Any questions about which classes to take?
 
-### Reccomended for AAS in Software Development
+### Recommended for AAS in Software Development
 
-If you are a full-time student, the courses reccomended for spring term are:
+If you are a full-time student, the courses recommended for spring term are:
 
 - CS 297 Capstone Project
 - CS 276 Advanced SQL
