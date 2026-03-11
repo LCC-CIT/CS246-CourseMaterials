@@ -46,11 +46,26 @@ For more info on requirements for the AAS in Software Development see the [LCC c
 
 ## This Week's Objectives
 
+- Finish lab 9.
+  - There will be some clarification of the lab requirements in class on Wednesday.  
+    In particular, about revising the scaffolded CRUD code to work with properties in your model that are your other domain model classes.
+
 - Write a contract between your team and your client.
+  - Topic of Monday's lecture
+  - See the example contract posted on Moodle.
+
+- Prepare for the design presentations
+  - See the presentation guide posted on Moodle.
+
 
 ## Due Dates
 
-Look at the due dates on Moodle.
+- Lab 9, Domain model and scaffolding: Thursday, 3/12
+- Lab 10, Client contract: Sunday, 3/15
+- Design presentations: Monday, 3/16  
+  (There is no final quiz.)
+
+
 
 
 
