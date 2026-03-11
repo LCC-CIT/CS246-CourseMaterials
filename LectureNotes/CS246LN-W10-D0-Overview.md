@@ -47,9 +47,12 @@ For more info on requirements for the AAS in Software Development see the [LCC c
 ## This Week's Objectives
 
 - Finish lab 9.
-  - There will be some clarification of the lab requirements in class on Wednesday.  
-    In particular, about revising the scaffolded CRUD code to work with properties in your model that are your other domain model classes.
+  
+  There will be some clarification of the lab requirements in class on Wednesday. 
 
+  - Explain more on revising the scaffolded CRUD code to work with properties in your model that are your other domain model classes.
+  - Look the section of Monday's lecture notes on scaffolding and the link to the CS 296N notes on complex domain models.
+  
 - Write a contract between your team and your client.
   - Topic of Monday's lecture
   - See the example contract posted on Moodle.
