@@ -1,0 +1,81 @@
+<h1>Week 10 Overview and Announcements</h1>
+
+**CS246N System Design, winter 2026**
+
+| Weekly topics                               |                                         |
+| ------------------------------------------- | --------------------------------------- |
+| 1. Software Solution Requirements           | 6. Real Project: UX Design              |
+| 2. Agile Development                        | 7. Real Project: Epics and User Stories |
+| 3. UX Design and Testing                    | 8. Design Patterns                      |
+| 4. OO Design with UML                       | 9. Real Project: Prototyping            |
+| 5. Starting Your Real Project: Requirements | **10. Real Project: Client Contract**   |
+|                                             | 11. Design Presentations                |
+
+<h2>Contents</h2>
+
+[TOC]
+
+## Discussion and Announcements
+
+- **Q and A**
+  - How is the prototype lab going?
+  - Any general questions?
+- **Announcements**  
+  **Reg Fest.** Wednesday, March 11 from 9am to 2pm. Get advising or registration assistance for spring as a new or continuing student. No appointment necessary! 
+
+## Registration for Spring Term
+
+- How  many of you have registered for spring term?
+
+- Any questions about which classes to take?
+
+### Recommended for AAS in Software Development
+
+If you are a full-time student, the courses recommended for spring term are:
+
+- CS 297 Capstone Project
+- CS 276 Advanced SQL
+- CS 280PR Co-op Education: Programming
+- Directed Elective, these are recommended:
+  - CS235M Advanced Mobile Application Development 
+    This is required for the Mobile App Development certificate,
+
+For more info on requirements for the AAS in Software Development see the [LCC catalog](https://lanecc.smartcatalogiq.com/en/current/lcc-catalog/programs-of-study/computer-information-technology/software-development-aas/).
+
+
+
+## This Week's Objectives
+
+- Finish lab 9.
+  
+  There will be some clarification of the lab requirements in class on Wednesday. 
+
+  - Explain more on revising the scaffolded CRUD code to work with properties in your model that are your other domain model classes.
+  - Look the section of Monday's lecture notes on scaffolding and the link to the CS 296N notes on complex domain models.
+  
+- Write a contract between your team and your client.
+  - Topic of Monday's lecture
+  - See the example contract posted on Moodle.
+
+- Prepare for the design presentations
+  - See the presentation guide posted on Moodle.
+
+
+## Due Dates
+
+- Lab 9, Domain model and scaffolding: Thursday, 3/12
+- Lab 10, Client contract: Sunday, 3/15
+- Design presentations: Monday, 3/16  
+  (There is no final quiz.)
+
+
+
+
+
+------
+
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+System Design Course Materials by [Brian Bird](https://profbird.dev), <time>2026</time>, are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+---
+

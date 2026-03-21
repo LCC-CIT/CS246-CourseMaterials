@@ -3,7 +3,7 @@ title: Prototyping
 description: Discussion of prototyping using ASP.NET MVC scaffolding.
 keywords: Prototype
 ---
-# Prototyping
+<h1>Prototyping</h1>
 
 **CS246N System Design**
 
