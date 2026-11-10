@@ -15,11 +15,18 @@
 
 ## Course Description 
 
-In this course, students will learn to design and plan the development of software systems. Topics covered will include requirements gathering, design evaluation and documentation, and object-oriented program design. By the end of the course, students will have produced a design for a significant software project as part of a team. 
+In this course, students will learn to design and plan the development of software systems. Topics covered will include requirements gathering, agile project management, UX design and usability testing, object-oriented design with UML, design and architectural patterns, and prototyping. By the end of the course, students will have produced a design for a significant software project as part of a team working with a real client. 
 
 ### Learning Outcomes 
 
-The goal of this course is to prepare you to design and plan significant software projects. You will learn to identify needs, create user stories, manage those stories using project planning tools, and validate your design with appropriate software testing. 
+Upon successful completion of this course, the student will be able to:
+1. Assess end user and stakeholder needs through interviews, surveys and observation. Translate those needs into a product requirements document that describes stakeholders, functional and non-functional requirements, constraints and acceptance criteria.
+2. Describe the SDLC, compare waterfall with agile concepts and methods (Scrum and Kanban). Plan and prepare to manage software product development using an agile approach that includes writing epics and user stories, keeping a product backlog and using a project management and issue tracking system such as Jira.
+3. Design, test and refine User eXperience (UX) for a proposed product by applying user-centered design and universal access, creating user flows, sitemaps and wireframes, running usability tests, and revising the design based on feedback from users and the client.
+4. Analyze a business problem, model an object-oriented solution with UML class diagrams and a domain model, and implement the classes and their relationships in code.
+5. Explain and apply Gang of Four design patterns and architectural patterns, including those already used in other courses such as: Layered (N-Tier) Architecture,  Component-Based Architecture (CBA) and Flux / Unidirectional Flow (Flux/Redux).
+6. Use prototyping to reduce project risk by choosing among throwaway, evolutionary, incremental and extreme prototypes and building a throwaway prototype to test a technical challenge.
+7. Work professionally on a team for a real client by setting team norms in a team contract, using collaboration tools (Jira, Git/GitHub, Discord), writing a contract with the client, and presenting a system design to stakeholders.
 
 ### Teaching Methods
 
@@ -148,16 +155,16 @@ View [academic calendars](https://www.lanecc.edu/calendars/academic-calendar) on
 
 (may be subject to change)
 
-| Week | Topic                                       |
-| ---- | ------------------------------------------- |
-| 1    | Developing a software requirements document |
-| 2    | Agile software development                  |
-| 3    | UX Design and testing                       |
-| 4    | OO Design with UML                          |
-| 5    | Starting a "real" project                   |
-| 6    | Project planning and design                 |
-| 7    | Project planning and design (continued)     |
-| 8    | Design and architectural patterns           |
-| 9    | Software prototyping                        |
-| 10   | Project documentation                       |
-| 11   | Design presentations                        |
+| Week | Topic                                           |
+| ---- | ----------------------------------------------- |
+| 1    | Problem solving, requirements, and the SDLC     |
+| 2    | Agile project management                        |
+| 3    | UX design and testing                           |
+| 4    | OO design with UML                              |
+| 5    | Real project: requirements and teamwork         |
+| 6    | Real project: UX design                         |
+| 7    | Real project: epics and user stories            |
+| 8    | Design and architectural patterns               |
+| 9    | Real project: prototyping                       |
+| 10   | Real project: domain model and client contract  |
+| 11   | Design presentations                            |

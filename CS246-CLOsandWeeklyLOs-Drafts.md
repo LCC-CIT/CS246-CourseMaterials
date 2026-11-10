@@ -18,13 +18,13 @@ Upon successful completion of this course, the student will be able to:
 
 Upon successful completion of this course, the student will be able to:
 
-1. **Identify a client's needs and turn them into requirements.** Assess needs through interviews, surveys and observation, and write a requirements document that covers stakeholders, functional and non-functional requirements, constraints and acceptance criteria.
-2. **Plan and manage a software project with agile methods.** Describe the SDLC, compare waterfall with agile (Scrum and Kanban), write epics and user stories, and keep a product backlog in an issue tracking system such as Jira.
-3. **Design, test and refine a user experience.** Apply user-centered design and universal access, create user flows, sitemaps and wireframes, run usability tests, and revise the design based on feedback from users and the client.
-4. **Model an object-oriented system.** Analyze a problem description, model the solution with UML class diagrams and a domain model, and implement the classes and their relationships in code.
-5. **Explain and apply design patterns.** This covers Gang of Four patterns and architectural patterns (layered, MVC, repository), including the ones built into .NET/ASP.NET.
-6. **Use prototyping to reduce project risk.** Choose among throwaway, evolutionary, incremental and extreme prototypes, and build a throwaway prototype to test a technical challenge.
-7. **Work professionally on a team for a real client.** Set team norms in a team contract, use collaboration tools (Jira, Git/GitHub, Discord), write a contract with the client, and present a system design to stakeholders.
+1. Assess end user and stakeholder needs through interviews, surveys and observation. Translate those needs into a product requirements document that describes stakeholders, functional and non-functional requirements, constraints and acceptance criteria.
+2. Describe the SDLC, compare waterfall with agile concepts and methods (Scrum and Kanban). Plan and prepare to manage software product development using an agile approach that includes writing epics and user stories, keeping a product backlog and using a project management and issue tracking system such as Jira.
+3. Design, test and refine User eXperience (UX) for a proposed product by applying user-centered design and universal access, creating user flows, sitemaps and wireframes, running usability tests, and revising the design based on feedback from users and the client.
+4. Analyze a business problem, model an object-oriented solution with UML class diagrams and a domain model, and implement the classes and their relationships in code.
+5. Explain and apply Gang of Four design patterns and architectural patterns, including those already used in other courses such as: Layered (N-Tier) Architecture,  Component-Based Architecture (CBA) and Flux / Unidirectional Flow (Flux/Redux).
+6. Use prototyping to reduce project risk by choosing among throwaway, evolutionary, incremental and extreme prototypes and building a throwaway prototype to test a technical challenge.
+7. Work professionally on a team for a real client by setting team norms in a team contract, using collaboration tools (Jira, Git/GitHub, Discord), writing a contract with the client, and presenting a system design to stakeholders.
 
 ### How the catalog CLOs map to the proposed CLOs
 
